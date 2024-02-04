@@ -57,7 +57,7 @@
   <h3 align="center">Support:</h3>
   <p>
     <a href="https://www.apple.com/">
-      <img align="center" src="https://pbs.twimg.com/profile_images/1717013664954499072/2dcJ0Unw_400x400.png" height="200" width="200" alt="apple"/>
+      <img align="center" src="https://pbs.twimg.com/profile_images/1717013664954499072/2dcJ0Unw_400x400.png" height="200" width="200" border-radius: 50%; alt="apple"/>
     </a>
   </p>
 </p>

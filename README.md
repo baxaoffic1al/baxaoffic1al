@@ -47,7 +47,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
 <a href="https://www.php.net/" target="_blank"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40" height="40"/></a> 
 <a href="https://gulpjs.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303440/gulp-logo.svg" alt="Gulp" width="40" height="40"/></a>
-
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" alt="sass" width="40" height="40"/></a>
   
 </p>  
 

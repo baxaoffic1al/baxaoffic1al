@@ -2,7 +2,7 @@
   ![Welcome to my profile](https://media.istockphoto.com/id/1411610158/photo/multi-colored-programming-language-source-code-design-example-front-view-composition-on-a.jpg?s=2048x2048&w=is&k=20&c=YCUdVdfVlX0UA9VHZI4hRnl8P6rGGrP8pjbeXhdb-x4=)
 
 <hr>
-<!-- MAIN PHRASE SECTION -->
+<!-- MAIN PHRASE SECTION  -->
 <span align="center">
   <span>
     <h4 align="center">"<em>\</em>"
